@@ -29,24 +29,30 @@ Ananta
 │   ├─ amass (In-depth Enumeration)
 │   ├─ gau (URLs Gathering)
 │   └─ waybackurls (Archived URLs)
+
 ├── [2] Scanning
 │   ├─ httpx (HTTP Probe)
 │   ├─ nuclei (Vulnerability Scanner)
 │   ├─ naabu (Port Scanner)
 │   └─ dnsx (DNS Scanner)
+
 ├── [3] Exploitation & Privilege Escalation
 │   ├─ dalfox (XSS Exploitation)
 │   ├─ crlfuzz (CRLF Injection Detection)
 │   └─ gobuster (Directory Brute-force)
+
 ├── [4] Network & Wireless Hacking
 │   ├─ naabu (Port Scanning)
 │   └─ dnsx (DNS Enumeration)
+
 ├── [5] Payloads & Backdoors
 │   ├─ gospider (Web Crawling)
 │   └─ ffuf (Web Fuzzing)
+
 ├── [6] Brute-Force & Cracking
 │   ├─ gobuster (Directory Brute-force)
 │   └─ crobat (Subdomain Brute-force)
+
 └── [7] Red Team Automation
     ├─ notify (Notifications)
     └─ anew (New Asset Detection)
