@@ -1,6 +1,6 @@
 # ANANTA 🚀
 🔥 Overview
-### The Cyber Offensive Toolkit is a Python-based interactive framework designed for offensive cybersecurity operations. It integrates multiple tools across various attack phases, including reconnaissance, scanning, exploitation, brute-forcing, and red team automation. This toolkit simplifies the execution of complex security tasks by automating tool installation, parameter handling, and execution.
+### The ANANTA is a Python-based interactive framework designed for offensive cybersecurity operations. It integrates multiple tools across various attack phases, including reconnaissance, scanning, exploitation, brute-forcing, and red team automation. This toolkit simplifies the execution of complex security tasks by automating tool installation, parameter handling, and execution.
 
 🛠️ Use Cases
 This toolkit is ideal for:
@@ -86,7 +86,7 @@ bash
 sudo apt install git -y
 Clone the Repository:
 bash
-git clone https://github.com/yourusername/cyber-offensive-toolkit.git
+git clone https://github.com/0xgigabyte/Ananta.git
 cd cyber-offensive-toolkit 
 Run the Script:
 Execute the script using Python:
