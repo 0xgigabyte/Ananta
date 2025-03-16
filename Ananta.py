@@ -12,7 +12,7 @@ init(autoreset=True)
 def banner():
     print(Fore.CYAN + """
 ╔══════════════════════════════════════════════╗
-║        Cyber Offensive Toolkit               ║
+║                   Ananta                     ║
 ║               BY 0xGigabyte                  ║
 ╚══════════════════════════════════════════════╝
 """)
